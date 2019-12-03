@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "stopwatch-2b39a",
+    "staging": "stopwatch-2b39a"
+  }
+}
