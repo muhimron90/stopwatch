@@ -2,7 +2,7 @@
 simple apps implement WEB & Mobile Apps (android) with Expo & Reactnative-web deploy on netlify
 
 Apps : 
-[My Expo Apps](https://stopwatch-imron.netlify.com/#/)
+[My Expo Apps](https://expo.io/@muhi90)
 &
 [![Website Apps Stopwatch]](https://stopwatch-imron.netlify.com/#/)
 
